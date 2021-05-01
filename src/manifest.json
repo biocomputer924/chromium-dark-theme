@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "dark",
+  "description": "",
+  "theme": {
+    "colors": {
+      "bookmark_text": [112, 192, 255],
+      "button_background": [0, 96, 176],
+      "frame": [32, 32, 32],
+      "frame_inactive": [32, 32, 32],
+      "frame_incognito": [32, 32, 32],
+      "frame_incognito_inactive": [32, 32, 32],
+      "ntp_background": [32, 32, 32],
+      "ntp_text": [255, 255, 255],
+      "tab_background_text": [176, 176, 176],
+      "tab_text": [255, 128, 192],
+      "toolbar": [32, 32, 32]
+    },
+    "images": {
+      "theme_tab_background": "images/background.png",
+      "theme_tab_background_incognito": "images/background.png",
+      "theme_toolbar": "images/background.png"
+    },
+    "tints" : {
+      "buttons": [0.575, 1, 0.72]
+    }
+  }
+}
